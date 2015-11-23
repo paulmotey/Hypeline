@@ -1,5 +1,5 @@
 ## Synopsis
-This is method to infer sentiment from publically available sources of comments
+This is branch of a method to infer sentiment from publically available sources of comments
 
 ## Code Example
 
